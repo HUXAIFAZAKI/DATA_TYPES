@@ -93,9 +93,7 @@ myList.append(50)
 
 print(myList)
 # print(myList[2])
-
-# myList.delete(4)
-
-myList.remove(30)
+myList.delete(4)
+# myList.remove(30)
 
 print("deleted",myList)
